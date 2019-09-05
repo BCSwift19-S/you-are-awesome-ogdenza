@@ -38,7 +38,7 @@ class ViewController: UIViewController {
         
         index = newIndex
         messageLabel.text = messages[index]
-        print("Hi")
+        
         
 //        messageLabel.text = messages.randomEleme nt()!
         
