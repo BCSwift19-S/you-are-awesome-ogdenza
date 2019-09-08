@@ -87,5 +87,7 @@ class ViewController: UIViewController {
 
             playSound(soundName: soundName, audioPlayer: &awesomePlayer)
         }
+        print("test")
+        
     }
 }
